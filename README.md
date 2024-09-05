@@ -1,4 +1,4 @@
-👋 Hi, I’m Rayienda, a first year computer science student who's currently studying at University of Indonesia.
+👋 Hi, I’m Rayienda, a second year computer science student who's currently studying at University of Indonesia.
 - 📫 Kindly reach me : https://www.linkedin.com/in/rayienda/
   
 <!---
